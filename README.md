@@ -1,5 +1,4 @@
 Flappy Owl 🦉
-Developed by ECU++ Studio
 
 A 2D arcade game built using C++ and the SFML (Simple and Fast Multimedia Library). This project focuses on implementing core game development patterns like State Management and Asset Management within a mechatronics engineering context.
 
@@ -32,16 +31,5 @@ AssetManager.cpp/h: Utility for handling game resources.
 
 Resources/: Directory containing all textures, fonts, and audio files.
 
-🚀 How to Run
-Clone the repository.
-
-Open the .sln file in Visual Studio.
-
-Ensure the SFML library is correctly linked in your project properties.
-
-Build and Run (Press F5).
-
 👥 Team: ECU++ Studio
 Ahmed Tarek - Lead Developer
-
-Mohamed Hazem - Developer & UI
